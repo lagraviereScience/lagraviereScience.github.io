@@ -1,4 +1,11 @@
-
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="Retour à la ligne automatique">
+  </head>
+  <body>
+    <pre>
 .announce
 {
 	position: relative;
@@ -49,17 +56,27 @@
 .skills-list
 {
 	column-count:2;
-}	
-
-.myH2
+}<br><br>.myH2
 {
 	font-size:40px;
+	margin-top:30px;
 }
+
+.detailedCvVersion
+{
+	margin-top:100px;
+}
+
+.myEducation
+{
+	margin-left:30px;
+}
+
 
 .resettingBodyColor
 {
 	background-color:#111111;
-}
+}<br><br><br><br>
 /*######################################################*/
 /*BLINKING Stuff : BEGIN*/
 /*######################################################*/
@@ -142,3 +159,6 @@
 /*######################################################*/
 /*BLINKING Stuff : END*/
 /*######################################################*/
+</pre>
+  </body>
+</html>
